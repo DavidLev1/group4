@@ -6,9 +6,11 @@
 
 
 var names = ["Beny Man", "David Good", "Koko Comipoki", "Kuzinaki Kuzuki"];
-var result = names.includes("Koko Comipoki");
-//var result = names.includes("Some Name");
+//var result = names.includes("Koko Comipoki");
+var result = names.includes("Some Name");
 
 console.log(result);
+
+
 
 
